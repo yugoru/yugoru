@@ -5,9 +5,6 @@
 
 **Founder/CTO @ Partenit** | Safety/reasoning for Physical AI robots | QA mentor 1000+ students
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=yugoru&show_icons=true&theme=cyberpunk&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugoru&layout=compact&theme=cyberpunk)](https://github.com/anuraghazra/github-readme-stats)
-
 **🦾 Robotics**  
 Partenit: Ontologies, safety layers for humanoids/HRI/warehouses.
 
@@ -25,5 +22,3 @@ Practical courses & tools.
 [![Horizon Grants](https://img.shields.io/badge/EU-Horizon%20Europe-blue?style=for-the-badge&logo=eu)](https://ec.europa.eu/programmes/horizon-europe)
 [![ROS](https://img.shields.io/badge/ROS2-Indigo-orange?style=for-the-badge&logo=ros)](https://index.ros.org/)
 
-[![Skills](https://skills.thijs.gg/icons?i=python,ros,docker,selenium,postman,llm,rag,postgres&theme=dark)](https://skills.thijs.gg)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yugoru.main)](https://github.com/jwenjian/visitor-badge)
